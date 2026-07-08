@@ -1,0 +1,10 @@
+{
+  "name": "Pak Profit Hub",
+  "short_name": "PPH",
+  "description": "Professional Pakistani daily earning platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#E63946",
+  "orientation": "portrait-primary"
+}
